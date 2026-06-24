@@ -22,7 +22,7 @@
 - UI/UX Design
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/Panckeyk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Panckeyk&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="Panckeyk's GitHub Stats" />
@@ -32,10 +32,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Panckeyk&theme=onedark&radius=10" alt="Panckeyk's Activity Graph" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Panckeyk&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nick Dagum's GitHub Trophies" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
