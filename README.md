@@ -79,8 +79,6 @@
 
 </p>
 
-
-![Top language](https://stats.pphat.top/languages?username=Panckeyk)
 <br/>
 
 <p align="center">
