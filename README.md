@@ -13,7 +13,7 @@
 </p>
 
 ## 📌 About Me
-- I'm a Computer Science student, passionate about developing and learning new things!
+- I am a Computer Science student with a passion for technology and software development. I enjoy building projects and continuously expanding my technical skills. I am always eager to learn new technologies and take on new challenges.
 
 
 ## 🧠 My Focus Areas
